@@ -1,4 +1,4 @@
-# Hi I'm Gitansh
+# Hi I'm Gitansh 👨🏻‍💻
 #### I’m a junior at Cluster Innovation Centre, University of Delhi, currently pursuing a Bachelor’s degree in Information Technology and Mathematical Innovations.
 
  
