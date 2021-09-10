@@ -22,9 +22,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
  -->
 
-<a href="https://github.com/gitanshwadhwa28">
+<!-- <a href="https://github.com/gitanshwadhwa28">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanshwadhwa28&theme=tokyonight&hide_border=true" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/gitanshwadhwa28">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitanshwadhwa28&show_icons=true&theme=tokyonight&hide_border=true" alt="Gitansh's github stats"/>
 </a> -->
