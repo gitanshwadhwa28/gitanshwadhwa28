@@ -1,6 +1,5 @@
-# Hi I'm Gitansh 👨🏻‍💻
-#### I’m a junior at Cluster Innovation Centre, University of Delhi, currently pursuing a Bachelor’s degree in Information Technology and Mathematical Innovations.
-
+# Hi, I'm Gitansh 👨🏻‍💻
+> #### I’m a junior at Cluster Innovation Centre, University of Delhi, currently pursuing a Bachelor’s degree in Information Technology and Mathematical Innovations.
  
 <!-- <a href="https://www.linkedin.com/in/gitanshwadhwa/">
   <img align="left" alt="Gitansh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
