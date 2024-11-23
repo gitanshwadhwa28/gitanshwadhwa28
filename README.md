@@ -62,9 +62,6 @@
 - 🌍 Always exploring new tech, collaborating on innovative projects, and learning something new every day.  
 - 📫 Feel free to connect and collaborate!  
 
----
-
-💻 _"Code is like humor. When you have to explain it, it’s bad."_  
 
 
  <!--### ⚙️ GitHub Analytics   -->
